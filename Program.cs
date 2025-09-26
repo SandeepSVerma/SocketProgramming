@@ -1,4 +1,5 @@
-﻿using System.Net.Sockets;
+using ClientSocketProgramming;
+using System.Net.Sockets;
 using System.Text;
 
 public class Client
